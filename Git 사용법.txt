@@ -1,0 +1,13 @@
+1. CREATE TABLE member2(num NUMBER)  해서 테이블을 만드세요.
+2. name VARCHAR2(12) 칼럼을 추가 해 보세요.
+3. addr VARCHAR2(12) 칼럼을 추가 해 보세요.
+4. num 칼럼에  PRIMARY KEY 제약조건을 추가 해 보세요.
+5. name 칼럼에  NOT NULL 제약조건을 추가 해 보세요.
+6. addr 칼럼의 데이터 type 을  VARCHAR2(16) 으로 수정 해 보세요.
+7. addr 칼럼의 칼럼명을 user_addr 로 수정 해 보세요.
+8. user_addr 칼럼을 삭제 해 보세요.
+9. name 칼럼에 부여한 제약 조건을 삭제 해 보세요.
+10. num 칼럼에 부여한 제약 조건을 비활성화 해 보세요.
+11. num 칼럼에 부여한 제약 조건을 활성화 해 보세요. 
+12. member2 테이블의 이름을 members 로 수정 해 보세요.  
+13. members 테이블을 삭제 해 보세요. 
